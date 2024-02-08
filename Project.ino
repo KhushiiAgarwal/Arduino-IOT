@@ -9,7 +9,7 @@ long duration;
 int distance;
 int safetyDistance;
 
-
+//For Ultrasonic Sensor
 void setup() {
 pinMode(trigPin, OUTPUT); // Sets the trigPin as an Output
 pinMode(echoPin, INPUT); // Sets the echoPin as an Input
