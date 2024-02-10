@@ -18,6 +18,8 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
   ![image](https://europe1.discourse-cdn.com/arduino/optimized/4X/7/7/1/771e9e169135ab9d10fb5c7fd46bbe1f2304c6af_2_690x396.jpeg)
 -  After the installation is complete, open Tools  Board  Select the NodeMCU
   <img width="436" alt="image" src="https://github.com/KhushiiAgarwal/Arduino-IOT/assets/99123453/0817cf57-634e-4747-ac30-28c021e6607d">
+
+  
  ### Run a program
 -  Now select port before successfully uploading program
   ![image](https://www.arduino.cc/wiki/static/bdbab2533752dbb0a6d18c02adeca0a0/4b190/UNO_Port.jpg)
