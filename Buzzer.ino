@@ -1,26 +1,11 @@
-#include <ArduinoWiFiServer.h>
-#include <BearSSLHelpers.h>
-#include <CertStoreBearSSL.h>
-#include <ESP8266WiFi.h>
-#include <ESP8266WiFiAP.h>
-#include <ESP8266WiFiGeneric.h>
-#include <ESP8266WiFiGratuitous.h>
-#include <ESP8266WiFiMulti.h>
-#include <ESP8266WiFiSTA.h>
-#include <ESP8266WiFiScan.h>
-#include <ESP8266WiFiType.h>
-#include <WiFiClient.h>
-#include <WiFiClientSecure.h>
-#include <WiFiClientSecureBearSSL.h>
-#include <WiFiServer.h>
-#include <WiFiServerSecure.h>
-#include <WiFiServerSecureBearSSL.h>
-#include <WiFiUdp.h>
+// Paste this code into a new sketch & run the file
+
 void setup()
 {
  }
 void loop()
 {
     tone(14, 494, 500); 
+ // The three numbers inside the tone() function represent: the pin we send the sound (D5 or 14 in our case), the frequency of the sound wave we send and the duration of the tone.
     delay(1000);
 }
