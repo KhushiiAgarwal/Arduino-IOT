@@ -8,7 +8,7 @@ WiFiServer server(80);
 void setup() {
   // put your setup code here, to run once:
 Serial.begin(9600);
-WiFi.begin("Galaxy M317509","tzoh1462");
+WiFi.begin("Enter-your-username","Enter-password");//Ensure to replace it with correct username & password.( Both are case sensitive)
 while(WiFi.status() !=WL_CONNECTED)
 {delay(500);
 Serial.print(".");
