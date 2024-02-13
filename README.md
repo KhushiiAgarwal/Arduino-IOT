@@ -1,5 +1,5 @@
 # Arduino-IOT
- ![](https://img.shields.io/circleci/project/github/badges/shields/master)         ![version](https://img.shields.io/badge/version-1.4-blue) ![version](https://img.shields.io/badge/Embedded-C-100%-blue)
+ ![](https://img.shields.io/circleci/project/github/badges/shields/master)         ![version](https://img.shields.io/badge/version-1.4-blue) ![](https://img.shields.io/badge/Embedded-C-100%25-blue)
 
 ### Setup & Installation
 - Pin diagram for ESP 8266
