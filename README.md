@@ -1,15 +1,10 @@
 # Arduino-IOT
 
-   <a href="https://github.com/badges/shields/pulse" alt="Activity">
-        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
-   <a href="https://circleci.com/gh/badges/shields/tree/master">
-        <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
-   <a href="https://circleci.com/gh/badges/daily-tests">
-        <img src="https://img.shields.io/circleci/project/github/badges/daily-tests?label=service%20tests"
-            alt="service-test status"></a>
+  ![](https://img.shields.io/github/commit-activity/m/badges/shields)
+   ![](https://img.shields.io/circleci/project/github/badges/shields/master)
+
             
  ![version](https://img.shields.io/badge/version-1.4-blue)
-Internet of Things Lab using Arduino
 
 ### Setup & Installation
 - Pin diagram for ESP 8266
