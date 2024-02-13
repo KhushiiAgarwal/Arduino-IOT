@@ -1,9 +1,5 @@
 # Arduino-IOT
-
-  ![](https://img.shields.io/github/commit-activity/m/badges/shields)
-   ![](https://img.shields.io/circleci/project/github/badges/shields/master)
-
-            
+ ![](https://img.shields.io/circleci/project/github/badges/shields/master)            
  ![version](https://img.shields.io/badge/version-1.4-blue)
 
 ### Setup & Installation
