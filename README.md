@@ -1,11 +1,24 @@
 # Arduino-IOT
+
+   <a href="https://github.com/badges/shields/pulse" alt="Activity">
+        <img src="https://img.shields.io/github/commit-activity/m/badges/shields" /></a>
+   <a href="https://circleci.com/gh/badges/shields/tree/master">
+        <img src="https://img.shields.io/circleci/project/github/badges/shields/master" alt="build status"></a>
+   <a href="https://circleci.com/gh/badges/daily-tests">
+        <img src="https://img.shields.io/circleci/project/github/badges/daily-tests?label=service%20tests"
+            alt="service-test status"></a>
+            
+ ![version](https://img.shields.io/badge/version-1.4-blue)
 Internet of Things Lab using Arduino
+
 ### Setup & Installation
 - Pin diagram for ESP 8266
+  
  ![image](https://i.pinimg.com/originals/8c/9d/a0/8c9da080e2bc1e5ff88d585712749caf.jpg)
 - [Know about NodeMCU ESP8266](https://www.make-it.ca/nodemcu-details-specifications/)
 - Download [Arduino IDE](https://www.arduino.cc/en/software/)
 - Open IDE -> File  preferences -> Additional board manager URL
+  
  ![image](https://europe1.discourse-cdn.com/arduino/original/4X/e/d/6/ed6590ef0443cdb9736ee2f24cbc6e8886d46b72.png)
  ![image](https://europe1.discourse-cdn.com/arduino/original/4X/6/9/9/699525237162570c9ad6fb6b2a1cea9d0a002663.png)
 -  Paste the URL in the dialog box :
